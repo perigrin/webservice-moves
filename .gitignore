@@ -1,0 +1,7 @@
+/WebService-Moves-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+local/
